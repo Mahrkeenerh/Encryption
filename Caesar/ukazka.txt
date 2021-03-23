@@ -1,0 +1,3 @@
+Toto je ukážkový text, ktorý bol zašifrovaný pomocou Caesarovej šifry. Jediný rozdiel 
+od pôvodnej šifry je, že namiesto znakov abecedy boli použité znaky ASCII, takže 
+sa dajú zašifrovať aj znaky slovenskej abecedy - mäkčene, dĺžne ...
